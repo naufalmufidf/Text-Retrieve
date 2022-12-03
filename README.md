@@ -1,1 +1,1 @@
-# Text-Retrieve
+Di tugas ini nnti bakal ada text preprocessing 
