@@ -8,4 +8,6 @@ kl mau nyoba gausa di run semua, run aja yg di bagian simplification. km ke runt
 
 oiya, yg bagian git remote mah skip aja ga penting
 
+di file text preprocessing jg ada contoh gimana prosesnya sekalian sama stemming sastrawi
+
 kl ada apa" berkabar
