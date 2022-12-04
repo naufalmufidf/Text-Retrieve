@@ -1,1 +1,1 @@
-beres tinggal simplify
+it's done done
